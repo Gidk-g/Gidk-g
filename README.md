@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... [Gidk Engine](https://github.com/Gidk-g/Gidk-Engine)
-- 🌱 I’m currently learning ... Haxe and C#
+- 🌱 I’m currently learning ... Haxe
 - 📫 [My Social Medias](#Social-Medias)
 
 ### Social Medias
