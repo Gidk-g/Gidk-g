@@ -4,8 +4,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... [Gidk Engine](https://github.com/Gidk-g/Gidk-Engine)
-- 🌱 I’m currently learning ... Haxe
+- 🔭 I’m currently working on [Gidk Engine](https://github.com/Gidk-g/Gidk-Engine)
+- 🌱 I’m currently learning [Haxe](https://haxe.org/)
 - 📫 [My Social Medias](#Social-Medias)
 
 ### Social Medias
