@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Gidk Engine](https://github.com/Gidk-g/Gidk-Engine)
 - 🌱 I’m currently learning [Haxe](https://haxe.org/)
-- 📫 [My Social Medias](#Social-Medias)
 
 ### Social Medias
+
 - [YouTube](https://www.youtube.com/channel/UCZu360PL3Nr-ppBmmmZhS2w)
 - [Gamebanana](https://gamebanana.com/members/2078953)
 - Discord - Gidk#0047
