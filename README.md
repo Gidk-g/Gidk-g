@@ -11,4 +11,4 @@
 
 - [YouTube](https://www.youtube.com/channel/UCZu360PL3Nr-ppBmmmZhS2w)
 - [Gamebanana](https://gamebanana.com/members/2078953)
-- Discord - Gidk#0047
+- Discord - Gidku#1279
